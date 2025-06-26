@@ -1,0 +1,12 @@
+# Ignore the virtual-env folder
+venv/
+
+# Ignore Python’s cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS Finder artefacts
+.DS_Store
+
+# Ignore (raw) data you don’t want in Git
+data/
